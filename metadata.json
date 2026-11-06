@@ -1,0 +1,6 @@
+{
+  "name": "Lark Player - Music & Video Player",
+  "description": "All-in-one music and video media player inspired by Lark Player, featuring offline playback, custom equalizer, synchronized lyrics, floating video player, playlists, and ringtone cutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
